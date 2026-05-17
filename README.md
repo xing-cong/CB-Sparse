@@ -1,7 +1,7 @@
 # CB-Sparse
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/NEUQer-xing/Markdown_images@master/images-2/CB-Sparse.png" width="300"></img>
+  <img src="https://cdn.jsdelivr.net/gh/NEUQer-xing/Markdown_images@master/images-2/202605172346841.png" width="300"></img>
 </div>
 
 **CB-Sparse** is a cache-friendly sparse computing framework for GPUs that unifies high-performance implementations of **SpMV**, **SpMM**, and **SpGEMM**, designed for irregular sparse workloads in HPC.
