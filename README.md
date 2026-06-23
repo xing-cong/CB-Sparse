@@ -30,7 +30,7 @@ Traditional sparse formats such as CSR and COO introduce irregular memory access
 
 <div align="center">
     <h3>
-        CB-Sparse: A Unified Cache-Friendly Sparse Computing Framework for GPUs
+      CB-SpMV:A Data Aggregating and Balance Algorithm for Cache-Friendly Block-Based SpMV on GPUs
     </h3>
     <p>
         Xing Cong, Fukai Sun, Yifan Chen, Chenhao Xie, Yi Liu, Depei Qian
