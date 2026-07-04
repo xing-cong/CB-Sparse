@@ -40,7 +40,7 @@ Traditional sparse formats such as CSR and COO introduce irregular memory access
 
 <div align="center">
   <a href="https://dl.acm.org/doi/10.1145/3721145.3725746"><b>[Paper]</b></a> | 
-  <a href="https://dl.acm.org/doi/10.1145/3721145.3725746"><b>[Slides]</b></a> | 
+  <a href="https://github.com/xing-cong/CB-Sparse/blob/master/cb-spmv/assets/cb-spmv-slides.pdf"><b>[Slides]</b></a> | 
   <a href="https://github.com/xing-cong/CB-Sparse/blob/master/Code-Guide.md"><b>[Code Guide]</b></a>
 </div>
 
